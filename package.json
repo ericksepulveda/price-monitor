@@ -1,0 +1,17 @@
+{
+  "name": "radar",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^3.4.7",
+    "jsonfile": "^2.4.0",
+    "node-cron": "^1.1.2",
+    "node-notifier": "^4.6.1",
+    "numbro": "^1.9.3",
+    "open": "^0.0.5",
+    "osmosis": "^1.1.2",
+    "prompt": "^1.0.0",
+    "scrapper": "^1.0.1"
+  }
+}
